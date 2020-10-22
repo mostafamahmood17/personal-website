@@ -159,7 +159,8 @@ h5{
 footer{
     font-size:10px;
     color:dimgrey;
-     padding-top:100px ;
+     padding-top:50px ;
+     padding-bottom:20px ;
 }
 
 q{
@@ -182,9 +183,9 @@ text-align: center;
     width:22%;
     height:200px;
     
-    border: 7px solid;
-    border-image: linear-gradient( 135deg, #FEB692,  #EA5455 );
-    border-image-slice: 1;
+    /* border: 7px solid; */
+    /* border-image: linear-gradient( 135deg, #FEB692,  #EA5455 ); */
+    /* border-image-slice: 1; */
     transition: all .2s ease-in-out;
     
       
